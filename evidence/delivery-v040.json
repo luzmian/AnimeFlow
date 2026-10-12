@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "archive_crc_passed": true,
+  "clean_extraction": true,
+  "user_database_excluded": true,
+  "node_modules_excluded": true,
+  "actual_preview_launcher_executed": true,
+  "default_browser_launch_replaced_with_url_capture": true,
+  "react_version": "0.4.0",
+  "player_resource_loaded": true,
+  "delivered_sample_decoded": true,
+  "sample_duration": 20.008,
+  "sqlite_progress_saved": true,
+  "authentication_enforced": true,
+  "launcher_exit_stops_service": true,
+  "verified_code_sha256": {
+    "app.js": "f48b3e4c8b0737c7490a9977b851757b88320a8aff2e811f29151cac397c895e",
+    "player.js": "2465fe67a84e11f7dfb8f13ca4e9b436b43866a30dfdfc8105b13a4923ea32c3",
+    "server.py": "422007f4f932063766287bd8bdf1c7d5e2d954bc9d4351f0639c299937243740",
+    "storage.py": "41a56a0ae5eb190d051af6abedd7a264fec4953c2219f243784d43dca960542e",
+    "index.html": "8d6ab6cfc3e2fc5896f9478c1e2211981fd51671072d063358915c3dfec3ed58",
+    "style.css": "b301f7da25db0733ea28da35d791ab2f53c0b5b0fb3881f3148ecf5674f374f9",
+    "preview.py": "4e570265016ecdc0ce6981734eedcca49477216ac2c8e0516f40ffe031058b7b",
+    "desktop/dist/assets/index-BYIrWREF.js": "ed8cee1bff6cdf63d1845374f6fd0bc9f886ddf86092daed70f803bb048d8e9d",
+    "desktop/dist/assets/index-CAcmp2d0.css": "9601e1c0fd4883b186e3f35bb3c3ab71dd27484369470377a0b2c3f3b01552cc",
+    "examples/test-video.webm": "b784138cce2107b7afe8ab76323c22fb311b12461b74711d2c7f4069646937d4"
+  },
+  "errors": []
+}

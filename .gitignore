@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+*.log
+desktop/node_modules/
+desktop/sidecar-dist/
+desktop/sidecar-work/
+desktop/src-tauri/target/
+desktop/src-tauri/binaries/animeflow-service-*

@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "react_preview": true,
+  "sort": {
+    "scope": 138,
+    "confirmed": 82,
+    "failures": 0,
+    "cards_checked": 48,
+    "top_dates": [
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11",
+      "2026-10-11"
+    ]
+  },
+  "row_click_opens_exact_episode": 2,
+  "keyboard_activation": true,
+  "date_groups": [
+    "2026-10-11",
+    "2026-10-10",
+    "2026-10-09"
+  ],
+  "real_records": 72,
+  "date_header_virtual_height": true,
+  "cover_node_preserved": true,
+  "stationary_bottom_no_chaining": true,
+  "exact_clock_time_unknown": true,
+  "errors": []
+}

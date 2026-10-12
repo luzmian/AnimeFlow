@@ -1,0 +1,1 @@
+{"passed":false,"native_binary_compiled":true,"rust_unit_tests_passed":1,"native_window_test":"blocked","reason":"Environment denies graphical Unix sockets; Xvfb/DBus sockets failed with Operation not permitted; GTK failed to initialize","windows_build_tested":false,"windows_exe_generated":false}

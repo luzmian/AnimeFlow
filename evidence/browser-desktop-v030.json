@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "binary_executed": true,
+  "external_python_not_needed": true,
+  "react_typescript_build_rendered": true,
+  "session_cookie_http_only": true,
+  "unauthenticated_api_rejected": true,
+  "random_ports": [
+    42413,
+    39455
+  ],
+  "sqlite_ui_restored_across_new_port": true,
+  "quarter_cards": 24,
+  "details": true,
+  "calendar_days": 7,
+  "stationary_bottom_no_chaining": true,
+  "errors": []
+}

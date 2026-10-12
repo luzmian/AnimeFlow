@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "fresh_extraction": true,
+  "preview_launcher": true,
+  "react_assets": true,
+  "empty_state": true,
+  "mine_real_end": true,
+  "service_exits": true,
+  "user_data_excluded": true
+}

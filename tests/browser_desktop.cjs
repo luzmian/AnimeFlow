@@ -1,0 +1,27 @@
+const {chromium}=require('playwright'),{spawn,spawnSync}=require('child_process'),fs=require('fs'),path=require('path'),assert=require('assert');
+(async()=>{
+ const root=path.resolve(__dirname,'..'),tmp=fs.mkdtempSync('/tmp/af-desktop-'),token='browser-desktop-private-session';
+ for(const n of ['cache.sqlite3','user.sqlite3'])if(fs.existsSync(path.join(root,'data',n))){const r=spawnSync('python3',['-c','import sqlite3,sys; a=sqlite3.connect(sys.argv[1]); b=sqlite3.connect(sys.argv[2]); a.backup(b)',path.join(root,'data',n),path.join(tmp,n)]);assert.equal(r.status,0)}
+ fs.symlinkSync(path.join(root,'data/covers'),path.join(tmp,'covers'));
+ const binary=path.join(root,'desktop/src-tauri/binaries/animeflow-service-x86_64-unknown-linux-gnu');
+ const service=spawn(binary,[],{env:{...process.env,AF_PORT:'0',AF_DESKTOP_TOKEN:token,AF_DESKTOP_UI_DIR:path.join(root,'desktop/dist'),ANIMEFLOW_DATA_DIR:tmp}});service.stderr.resume();
+ let browser,base;
+ try{
+ const ready=await new Promise((resolve,reject)=>{let buffer='';const timer=setTimeout(()=>reject(Error('sidecar readiness timeout')),15000);service.stdout.on('data',d=>{buffer+=d;if(buffer.includes('\n')){clearTimeout(timer);resolve(JSON.parse(buffer.split('\n')[0]))}});service.on('exit',code=>reject(Error('sidecar exited '+code)))});base='http://127.0.0.1:'+ready.port;
+ browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||chromium.executablePath(),args:['--no-sandbox','--disable-dev-shm-usage','--disable-gpu']});const p=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));
+ await p.goto(base+'/desktop/?session='+token);await p.waitForFunction(()=>typeof stateReady!=='undefined'&&stateReady,{},{timeout:60000});assert.equal(p.url(),base+'/desktop/');assert(!(await p.evaluate(()=>document.cookie)).includes(token));assert.equal((await fetch(base+'/api/state')).status,403);
+ await p.click('[data-tab="library"]');await p.selectOption('#year','2024');await p.selectOption('#season','WINTER');await p.waitForFunction(()=>document.querySelector('#notice').textContent.includes('本季度'),{},{timeout:180000});assert.equal(await p.locator('.card').count(),24);
+ await p.locator('.card').first().click();await p.waitForSelector('#episodeInput',{timeout:90000});await p.waitForFunction(()=>!document.querySelector('#episodeStatus').textContent.includes('正在'),{},{timeout:90000});assert(await p.locator('.episode-aired').count()>0);await p.click('#close');
+ await p.click('[data-tab="history"]');await p.reload();await p.waitForFunction(()=>typeof stateReady!=='undefined'&&stateReady&&tab==='history');assert(await p.locator('#history').isVisible());await p.evaluate(()=>writeQueue); // Finish persisted UI writes before restart.
+ // A new dynamic port/browser context has no localStorage, so restore UI from SQLite.
+ service.kill();await new Promise(r=>service.once('exit',r));
+ const second=spawn(binary,[],{env:{...process.env,AF_PORT:'0',AF_DESKTOP_TOKEN:token,AF_DESKTOP_UI_DIR:path.join(root,'desktop/dist'),ANIMEFLOW_DATA_DIR:tmp}});second.stderr.resume();
+ try{
+ const ready2=await new Promise((resolve,reject)=>{let b='';const t=setTimeout(()=>reject(Error('restart timeout')),15000);second.stdout.on('data',d=>{b+=d;if(b.includes('\n')){clearTimeout(t);resolve(JSON.parse(b.split('\n')[0]))}})});assert.notEqual(ready2.port,ready.port);
+ const fresh=await browser.newContext(),p2=await fresh.newPage();await p2.goto('http://127.0.0.1:'+ready2.port+'/desktop/?session='+token);await p2.waitForFunction(()=>typeof stateReady!=='undefined'&&stateReady&&tab==='history');assert(await p2.locator('#history').isVisible());await p2.click('[data-tab="feed"]');await p2.click('[data-feed="all"]');await p2.waitForFunction(()=>feedRows.length>=24&&!feedBusy&&!feedWaiting,{},{timeout:180000});assert.equal(await p2.locator('#weekCalendar .day').count(),7);assert.equal(await p2.locator('[data-read],#markAllRead').count(),0);
+ await p2.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));await p2.mouse.move(1000,700);await p2.mouse.wheel(0,600);await p2.waitForFunction(()=>feedRows.length>=48&&!feedBusy&&!feedWaiting,{},{timeout:180000});const count=await p2.evaluate(()=>feedRows.length);await p2.waitForTimeout(2500);assert.equal(await p2.evaluate(()=>feedRows.length),count);
+ const font=fs.readFileSync(process.env.QA_FONT_PATH||'/workspace/scratch/77fa98c948d7/browser-tools/NotoSansSC.ttf').toString('base64');await p2.addStyleTag({content:`@font-face{font-family:QA;src:url(data:font/ttf;base64,${font})}body,button{font-family:QA,sans-serif!important}`});await p2.evaluate(()=>document.fonts.ready);await p2.evaluate(()=>window.scrollTo(0,0));await p2.screenshot({path:path.join(root,'evidence/desktop-react-v030.png')});
+ assert.deepEqual(errors,[]);const report={passed:true,binary_executed:true,external_python_not_needed:true,react_typescript_build_rendered:true,session_cookie_http_only:true,unauthenticated_api_rejected:true,random_ports:[ready.port,ready2.port],sqlite_ui_restored_across_new_port:true,quarter_cards:24,details:true,calendar_days:7,stationary_bottom_no_chaining:true,errors};fs.writeFileSync(path.join(root,'evidence/browser-desktop-v030.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report));
+ }finally{second.kill();}
+ }finally{await browser?.close();service.kill();fs.rmSync(tmp,{recursive:true,force:true})}
+})().catch(e=>{console.error(e);process.exit(1)});

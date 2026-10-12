@@ -1,0 +1,12 @@
+{
+  "tested_at": "2026-10-10",
+  "vite": "7.3.7",
+  "vulnerabilities": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  }
+}

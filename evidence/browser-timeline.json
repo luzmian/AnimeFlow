@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "real_records_loaded": 2400,
+  "earliest_loaded": "2026-06-23",
+  "unique_records": 2400,
+  "max_mounted_rows": 20,
+  "actual_page_requests": 142,
+  "returned_to_first_record": true,
+  "older_episode": {
+    "number": 1213,
+    "date": "2026-09-19",
+    "page_offset": 1200
+  },
+  "errors": []
+}

@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "errors": [],
+  "checks": [
+    "full quarter renders",
+    "pagination 24 -> 48",
+    "score order",
+    "TV filter",
+    "Japan filter",
+    "romance tag filter",
+    "search beyond first page",
+    "detail",
+    "episode records",
+    "follow",
+    "SQLite history persists after localStorage cleared",
+    "delete history",
+    "theme"
+  ],
+  "images": [
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/d3/99/622288_nmbC3.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/17/c7/554779_oPitO.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/db/94/513878_54i56.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/55/e2/568244_0D00X.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/1c/9b/537738_6rr67.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/6d/5b/362551_9XG3g.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/e4/41/665390_UCHPM.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/af/3a/625799_ycox6.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/9e/b5/630160_tL25y.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/c6/8d/624085_5dXDL.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/7a/49/637802_YVTam.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/cf/80/415482_5885x.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/dc/ac/663129_e8E81.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/6d/79/589284_IuTGI.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/af/7e/656083_B22Yt.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/83/49/584847_5nM0F.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/65/61/393010_EIOi9.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/73/99/624923_4u99L.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/24/df/647220_cZZjY.jpg",
+      "loaded": false
+    },
+    {
+      "src": "http://127.0.0.1:5173/cover/pic/cover/l/52/fe/418229_gcFij.jpg",
+      "loaded": false
+    }
+  ]
+}

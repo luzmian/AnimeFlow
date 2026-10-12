@@ -1,0 +1,17 @@
+{
+  "actual_upstream": true,
+  "requests": [
+    {
+      "path": "/v0/subjects/12",
+      "elapsed_seconds": 8.323,
+      "count": null,
+      "id": 12
+    },
+    {
+      "path": "/v0/episodes?subject_id=12&type=0&limit=100&offset=0",
+      "elapsed_seconds": 0.273,
+      "count": 24,
+      "id": null
+    }
+  ]
+}

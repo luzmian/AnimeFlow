@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "fresh_extraction": true,
+  "react_preview": true,
+  "sort_and_layout_code_present": true,
+  "empty_state": true,
+  "mine_real_end": true,
+  "launcher_exit_stops_service": true,
+  "user_data_excluded": true
+}

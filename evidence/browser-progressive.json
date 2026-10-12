@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "real_network": {
+    "cold_catalog_initial_response_ms": 4,
+    "cold_catalog_first_data_ms": 11058,
+    "first_batch_count": 100,
+    "calendar_entries": 169,
+    "live_scroll_count": 48
+  },
+  "controlled_latency_test": {
+    "detail_hero_ms": 467,
+    "upstream_delay_ms": 3000
+  },
+  "controlled_ui_test": {
+    "scroll_records": "24 -> 48 -> 60"
+  },
+  "errors": []
+}

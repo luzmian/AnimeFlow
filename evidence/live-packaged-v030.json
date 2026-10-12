@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "cold_database": true,
+  "packaged_binary_network_request": true,
+  "upstream": "Bangumi /v0/subjects/12",
+  "id": 12,
+  "name": "ちょびっツ",
+  "seconds": 8.966
+}

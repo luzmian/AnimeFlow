@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "real_bangumi_subject": 12,
+  "real_subject_name": "人形电脑天使心",
+  "real_video": {
+    "duration": 20.008,
+    "width": 640,
+    "height": 360
+  },
+  "decoded_frames": 33,
+  "autoprogress_sqlite": true,
+  "metadata_creates_no_history": true,
+  "restore_seconds": 6.25,
+  "different_file_starts_at_zero": true,
+  "previous_next_session_files": true,
+  "per_episode_history": true,
+  "subtitle_cues": 1,
+  "danmaku_modes": [
+    1,
+    4,
+    5
+  ],
+  "danmaku_motion": true,
+  "merged_danmaku_deduplicated": true,
+  "background_inert": true,
+  "fullscreen_overlay": true,
+  "settings_persisted": true,
+  "delete_survives_reload": true,
+  "page_close_beacon_saved": true,
+  "unauthenticated_api_rejected": true,
+  "errors": [],
+  "csp_errors": []
+}

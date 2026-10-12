@@ -1,0 +1,1159 @@
+{
+  "passed": true,
+  "current_subjects": 400,
+  "current_network_results": 400,
+  "pagination_records": 384,
+  "pages": 16,
+  "earliest": "2026-09-19",
+  "max_page_bytes": 23613,
+  "archive_seconds": 6.150073233000512,
+  "archive_retries": [],
+  "archive_first_loading": true,
+  "archive_result": {
+    "events": [
+      {
+        "key": "664874:1715318",
+        "bgmId": 664874,
+        "episodeId": 1715318,
+        "number": 1,
+        "title": "",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 664874,
+          "name": "ꕤ「FBKINGDOM STORY」アニメーショントレーラー ꕤ",
+          "name_cn": "",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/9f/664874_fZvGE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/9f/664874_fZvGE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/9f/664874_fZvGE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/9f/664874_fZvGE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/9f/664874_fZvGE.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 13,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 5,
+              "6": 7,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 5.7
+          },
+          "platform": "其他",
+          "date": "2026-06-30",
+          "eps": 1,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "657127:1713906",
+        "bgmId": 657127,
+        "episodeId": 1713906,
+        "number": 2,
+        "title": "",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 657127,
+          "name": "パイの実 おしの森へようこそ！",
+          "name_cn": "派之果实 欢迎来到奥西森林！",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/2f/657127_k79w7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/2f/657127_k79w7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bc/2f/657127_k79w7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/2f/657127_k79w7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 1,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 0,
+              "6": 1,
+              "7": 0,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-04",
+          "eps": 8,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "345822:1702091",
+        "bgmId": 345822,
+        "episodeId": 1702091,
+        "number": 5,
+        "title": "幻境对决",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 345822,
+          "name": "城隍录",
+          "name_cn": "城隍录",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/65/345822_XBZSU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/65/345822_XBZSU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/65/345822_XBZSU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/65/345822_XBZSU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_XBZSU.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 12,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 1,
+              "4": 6,
+              "5": 2,
+              "6": 2,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 4.7
+          },
+          "platform": "WEB",
+          "date": "2026-06-09",
+          "eps": 6,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "571910:1699956",
+        "bgmId": 571910,
+        "episodeId": 1699956,
+        "number": 1,
+        "title": "桑切斯公爵家的失败者",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 571910,
+          "name": "無自覚聖女は今日も無意識に力を垂れ流す",
+          "name_cn": "无自觉圣女今天也无意识地释放力量",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/bf/571910_LUlnW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/bf/571910_LUlnW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/61/bf/571910_LUlnW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/bf/571910_LUlnW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg"
+          },
+          "rating": {
+            "rank": 10072,
+            "total": 163,
+            "count": {
+              "1": 4,
+              "2": 11,
+              "3": 30,
+              "4": 64,
+              "5": 33,
+              "6": 14,
+              "7": 3,
+              "8": 2,
+              "9": 1,
+              "10": 1
+            },
+            "score": 4.2
+          },
+          "platform": "TV",
+          "date": "2026-06-30",
+          "eps": 12,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "409468:1670733",
+        "bgmId": 409468,
+        "episodeId": 1670733,
+        "number": 13,
+        "title": "献给没能成为天才的所有人",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 409468,
+          "name": "左ききのエレン",
+          "name_cn": "左撇子艾伦",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/6c/409468_xxw82.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/6c/409468_xxw82.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/6c/409468_xxw82.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/6c/409468_xxw82.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/6c/409468_xxw82.jpg"
+          },
+          "rating": {
+            "rank": 7391,
+            "total": 1020,
+            "count": {
+              "1": 6,
+              "2": 2,
+              "3": 21,
+              "4": 57,
+              "5": 153,
+              "6": 434,
+              "7": 257,
+              "8": 65,
+              "9": 19,
+              "10": 6
+            },
+            "score": 6.1
+          },
+          "platform": "TV",
+          "date": "2026-04-07",
+          "eps": 13,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "590353:1669123",
+        "bgmId": 590353,
+        "episodeId": 1669123,
+        "number": 13,
+        "title": "谢啦",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 590353,
+          "name": "マリッジトキシン",
+          "name_cn": "婚姻剧毒",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/dc/590353_M0laM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/dc/590353_M0laM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/dc/590353_M0laM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/dc/590353_M0laM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg"
+          },
+          "rating": {
+            "rank": 7326,
+            "total": 3914,
+            "count": {
+              "1": 9,
+              "2": 8,
+              "3": 28,
+              "4": 166,
+              "5": 615,
+              "6": 1698,
+              "7": 1175,
+              "8": 181,
+              "9": 15,
+              "10": 19
+            },
+            "score": 6.1
+          },
+          "platform": "TV",
+          "date": "2026-04-07",
+          "eps": 13,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "537722:1666250",
+        "bgmId": 537722,
+        "episodeId": 1666250,
+        "number": 13,
+        "title": "然后，复制品会。",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 537722,
+          "name": "レプリカだって、恋をする。",
+          "name_cn": "复制品的我也会谈恋爱。",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg"
+          },
+          "rating": {
+            "rank": 6217,
+            "total": 1323,
+            "count": {
+              "1": 4,
+              "2": 2,
+              "3": 13,
+              "4": 32,
+              "5": 134,
+              "6": 545,
+              "7": 496,
+              "8": 83,
+              "9": 8,
+              "10": 6
+            },
+            "score": 6.3
+          },
+          "platform": "TV",
+          "date": "2026-04-07",
+          "eps": 13,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "564289:1665059",
+        "bgmId": 564289,
+        "episodeId": 1665059,
+        "number": 12,
+        "title": "因为青梅竹马是女孩子",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 564289,
+          "name": "愛してるゲームを終わらせたい",
+          "name_cn": "想结束这场“我爱你”的游戏",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg"
+          },
+          "rating": {
+            "rank": 5340,
+            "total": 2244,
+            "count": {
+              "1": 6,
+              "2": 6,
+              "3": 16,
+              "4": 54,
+              "5": 211,
+              "6": 832,
+              "7": 802,
+              "8": 251,
+              "9": 27,
+              "10": 39
+            },
+            "score": 6.5
+          },
+          "platform": "TV",
+          "date": "2026-04-14",
+          "eps": 12,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "491576:1538992",
+        "bgmId": 491576,
+        "episodeId": 1538992,
+        "number": 6,
+        "title": "四大狂人 前来拜会",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 491576,
+          "name": "万人之上",
+          "name_cn": "万人之上",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/6a/491576_vRrJZ.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 14,
+            "count": {
+              "1": 1,
+              "2": 0,
+              "3": 0,
+              "4": 2,
+              "5": 5,
+              "6": 1,
+              "7": 5,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 5.4
+          },
+          "platform": "WEB",
+          "date": "2026-06-09",
+          "eps": 14,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "453309:1247377",
+        "bgmId": 453309,
+        "episodeId": 1247377,
+        "number": 22,
+        "title": "月饼引爆蟾与兔之战",
+        "date": "2026-06-30",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 453309,
+          "name": "非人哉 第三季 Part.2",
+          "name_cn": "非人哉 第三季 13-24集",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/11/453309_597ky.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/11/453309_597ky.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/11/453309_597ky.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/11/453309_597ky.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/11/453309_597ky.jpg"
+          },
+          "rating": {
+            "rank": 2991,
+            "total": 56,
+            "count": {
+              "1": 0,
+              "2": 1,
+              "3": 1,
+              "4": 0,
+              "5": 4,
+              "6": 9,
+              "7": 32,
+              "8": 5,
+              "9": 3,
+              "10": 1
+            },
+            "score": 6.8
+          },
+          "platform": "WEB",
+          "date": "2026-05-05",
+          "eps": 12,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "664702:1741316",
+        "bgmId": 664702,
+        "episodeId": 1741316,
+        "number": 1,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 664702,
+          "name": "パッチワーク・ヒーロー/緋八マナ",
+          "name_cn": "",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/7d/664702_ZDZnl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/7d/664702_ZDZnl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8a/7d/664702_ZDZnl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8a/7d/664702_ZDZnl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/7d/664702_ZDZnl.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 3,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 1,
+              "4": 1,
+              "5": 1,
+              "6": 0,
+              "7": 0,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 4
+          },
+          "platform": "其他",
+          "date": "2026-06-29",
+          "eps": 1,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714550",
+        "bgmId": 653289,
+        "episodeId": 1714550,
+        "number": 20,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714549",
+        "bgmId": 653289,
+        "episodeId": 1714549,
+        "number": 19,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714548",
+        "bgmId": 653289,
+        "episodeId": 1714548,
+        "number": 18,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714547",
+        "bgmId": 653289,
+        "episodeId": 1714547,
+        "number": 17,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714546",
+        "bgmId": 653289,
+        "episodeId": 1714546,
+        "number": 16,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714545",
+        "bgmId": 653289,
+        "episodeId": 1714545,
+        "number": 15,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714544",
+        "bgmId": 653289,
+        "episodeId": 1714544,
+        "number": 14,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714543",
+        "bgmId": 653289,
+        "episodeId": 1714543,
+        "number": 13,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714542",
+        "bgmId": 653289,
+        "episodeId": 1714542,
+        "number": 12,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714541",
+        "bgmId": 653289,
+        "episodeId": 1714541,
+        "number": 11,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714540",
+        "bgmId": 653289,
+        "episodeId": 1714540,
+        "number": 10,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714539",
+        "bgmId": 653289,
+        "episodeId": 1714539,
+        "number": 9,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      },
+      {
+        "key": "653289:1714538",
+        "bgmId": 653289,
+        "episodeId": 1714538,
+        "number": 8,
+        "title": "",
+        "date": "2026-06-29",
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "page_offset": 0,
+        "anime": {
+          "id": 653289,
+          "name": "Adventure Time: Side Quests",
+          "name_cn": "探险时光：支线任务",
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/b3/653289_4GGQG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg"
+          },
+          "rating": {
+            "rank": 0,
+            "total": 5,
+            "count": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "6": 3,
+              "7": 1,
+              "8": 0,
+              "9": 0,
+              "10": 0
+            },
+            "score": 6
+          },
+          "platform": "WEB",
+          "date": "2026-06-29",
+          "eps": 20,
+          "total_episodes": 0,
+          "type": 2
+        },
+        "read": false
+      }
+    ],
+    "next_cursor": "eyJtb2RlIjoiYWxsIiwiYmVmb3JlIjpbIjIwMjYtMDYtMjkiLDE3MTQ1MzgsIjY1MzI4OToxNzE0NTM4Il0sImZsb29yIjoiMjAyNi0wNC0wMSJ9",
+    "has_more": true,
+    "loading": false,
+    "warning": null,
+    "archive": {
+      "complete": true,
+      "count": 239,
+      "total": 239,
+      "year": 2026,
+      "quarter": 2,
+      "synced_at": 1791621108.745329,
+      "running": false
+    },
+    "end_reason": null
+  },
+  "total_seconds": 45.227100713000254
+}

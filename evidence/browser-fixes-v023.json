@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "history_reload": true,
+  "feed_reload_and_mode": true,
+  "read_ui_removed": true,
+  "image_node_retained_during_refresh": true,
+  "stationary_bottom_no_chained_pages": true,
+  "next_gesture_loads": true,
+  "real_records": 72,
+  "controlled_badge_checks": [
+    "first baseline no badge",
+    "unchanged no badge",
+    "new same-day record badge",
+    "enter feed clears badge",
+    "older backfill no badge"
+  ],
+  "errors": []
+}

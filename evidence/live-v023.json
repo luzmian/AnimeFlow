@@ -1,0 +1,8 @@
+{
+  "tested_at": "2026-10-10",
+  "endpoint": "/v0/subjects/12",
+  "id": 12,
+  "name": "ちょびっツ",
+  "seconds": 6.704,
+  "real_network": true
+}

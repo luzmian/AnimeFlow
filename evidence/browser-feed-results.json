@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "errors": [],
+  "selectedEpisode": 2,
+  "checks": [
+    "live mine feed",
+    "7 day schedule",
+    "read record",
+    "read persists across reload",
+    "mark loaded read",
+    "open exact episode",
+    "long series jumps to tail episode page",
+    "live all timeline with no debug subject list",
+    "theme persists across fresh browser context",
+    "SQLite follows persist",
+    "private database not served",
+    "cross origin write rejected",
+    "known official platform mapping"
+  ]
+}

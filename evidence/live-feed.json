@@ -1,0 +1,656 @@
+{
+  "all": {
+    "events": [
+      {
+        "key": "622288:1741639",
+        "bgmId": 622288,
+        "episodeId": 1741639,
+        "number": 2,
+        "title": "有杠杆就没问题",
+        "date": "2026-10-08",
+        "anime": {
+          "id": 622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      },
+      {
+        "key": "899:1724958",
+        "bgmId": 899,
+        "episodeId": 1724958,
+        "number": 1215,
+        "title": "茜红色的最终日（压轴日）",
+        "date": "2026-10-03",
+        "anime": {
+          "id": 899,
+          "url": "http://bgm.tv/subject/899",
+          "type": 2,
+          "name": "名探偵コナン",
+          "name_cn": "名侦探柯南",
+          "summary": "",
+          "air_date": "1996-01-08",
+          "air_weekday": 6,
+          "rating": {
+            "total": 11615,
+            "count": {
+              "10": 1168,
+              "9": 1157,
+              "8": 3268,
+              "7": 3809,
+              "6": 1558,
+              "5": 465,
+              "4": 97,
+              "3": 39,
+              "2": 13,
+              "1": 41
+            },
+            "score": 7.5
+          },
+          "rank": 906,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/01/88/899_REwVW.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/01/88/899_REwVW.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/01/88/899_REwVW.jpg"
+          },
+          "collection": {
+            "doing": 10899
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      },
+      {
+        "key": "622288:1741638",
+        "bgmId": 622288,
+        "episodeId": 1741638,
+        "number": 1,
+        "title": "FX⋯是什么？",
+        "date": "2026-10-01",
+        "anime": {
+          "id": 622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      },
+      {
+        "key": "899:1724957",
+        "bgmId": 899,
+        "episodeId": 1724957,
+        "number": 1214,
+        "title": "茜红色的最终日（首演日）",
+        "date": "2026-09-26",
+        "anime": {
+          "id": 899,
+          "url": "http://bgm.tv/subject/899",
+          "type": 2,
+          "name": "名探偵コナン",
+          "name_cn": "名侦探柯南",
+          "summary": "",
+          "air_date": "1996-01-08",
+          "air_weekday": 6,
+          "rating": {
+            "total": 11615,
+            "count": {
+              "10": 1168,
+              "9": 1157,
+              "8": 3268,
+              "7": 3809,
+              "6": 1558,
+              "5": 465,
+              "4": 97,
+              "3": 39,
+              "2": 13,
+              "1": 41
+            },
+            "score": 7.5
+          },
+          "rank": 906,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/01/88/899_REwVW.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/01/88/899_REwVW.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/01/88/899_REwVW.jpg"
+          },
+          "collection": {
+            "doing": 10899
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      }
+    ],
+    "schedule": [
+      {
+        "key": "899:1724959",
+        "bgmId": 899,
+        "episodeId": 1724959,
+        "number": 1216,
+        "title": "茜红色的最终日（大轴日）",
+        "date": "2026-10-10",
+        "anime": {
+          "id": 899,
+          "url": "http://bgm.tv/subject/899",
+          "type": 2,
+          "name": "名探偵コナン",
+          "name_cn": "名侦探柯南",
+          "summary": "",
+          "air_date": "1996-01-08",
+          "air_weekday": 6,
+          "rating": {
+            "total": 11615,
+            "count": {
+              "10": 1168,
+              "9": 1157,
+              "8": 3268,
+              "7": 3809,
+              "6": 1558,
+              "5": 465,
+              "4": 97,
+              "3": 39,
+              "2": 13,
+              "1": 41
+            },
+            "score": 7.5
+          },
+          "rank": 906,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/01/88/899_REwVW.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/01/88/899_REwVW.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/01/88/899_REwVW.jpg"
+          },
+          "collection": {
+            "doing": 10899
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "schedule"
+      },
+      {
+        "key": "622288:1741640",
+        "bgmId": 622288,
+        "episodeId": 1741640,
+        "number": 3,
+        "title": "一定得停损吗......？",
+        "date": "2026-10-15",
+        "anime": {
+          "id": 622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          }
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "schedule"
+      }
+    ],
+    "subjects": [
+      {
+        "id": 975,
+        "url": "http://bgm.tv/subject/975",
+        "type": 2,
+        "name": "ONE PIECE",
+        "name_cn": "航海王",
+        "summary": "",
+        "air_date": "1999-10-20",
+        "air_weekday": 3,
+        "rating": {
+          "total": 14828,
+          "count": {
+            "10": 4057,
+            "9": 2875,
+            "8": 3888,
+            "7": 2393,
+            "6": 964,
+            "5": 356,
+            "4": 110,
+            "3": 43,
+            "2": 46,
+            "1": 96
+          },
+          "score": 8.3
+        },
+        "rank": 105,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/92/97/975_GFGYI.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/92/97/975_GFGYI.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/92/97/975_GFGYI.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/92/97/975_GFGYI.jpg"
+        },
+        "collection": {
+          "doing": 16281
+        }
+      },
+      {
+        "id": 899,
+        "url": "http://bgm.tv/subject/899",
+        "type": 2,
+        "name": "名探偵コナン",
+        "name_cn": "名侦探柯南",
+        "summary": "",
+        "air_date": "1996-01-08",
+        "air_weekday": 6,
+        "rating": {
+          "total": 11615,
+          "count": {
+            "10": 1168,
+            "9": 1157,
+            "8": 3268,
+            "7": 3809,
+            "6": 1558,
+            "5": 465,
+            "4": 97,
+            "3": 39,
+            "2": 13,
+            "1": 41
+          },
+          "score": 7.5
+        },
+        "rank": 906,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/01/88/899_REwVW.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/01/88/899_REwVW.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/01/88/899_REwVW.jpg"
+        },
+        "collection": {
+          "doing": 10899
+        }
+      },
+      {
+        "id": 622288,
+        "url": "http://bgm.tv/subject/622288",
+        "type": 2,
+        "name": "FX戦士くるみちゃん",
+        "name_cn": "FX战士久留美",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 1275,
+          "count": {
+            "10": 32,
+            "9": 39,
+            "8": 212,
+            "7": 697,
+            "6": 236,
+            "5": 43,
+            "4": 6,
+            "3": 1,
+            "2": 1,
+            "1": 8
+          },
+          "score": 7
+        },
+        "rank": 2598,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+        },
+        "collection": {
+          "doing": 9751
+        }
+      }
+    ],
+    "total_subjects": 104,
+    "offset": 0,
+    "count": 3,
+    "has_next": true,
+    "results": [
+      {
+        "subject_id": 975,
+        "synced_at": 1791617340.7524803,
+        "cache": "network",
+        "warning": null
+      },
+      {
+        "subject_id": 899,
+        "synced_at": 1791617340.7865958,
+        "cache": "network",
+        "warning": null
+      },
+      {
+        "subject_id": 622288,
+        "synced_at": 1791617340.7692795,
+        "cache": "network",
+        "warning": null
+      }
+    ],
+    "today": "2026-10-10",
+    "calendar_synced_at": 1791617321.6596463,
+    "calendar_warning": null,
+    "coverage": "每部作品末尾最多100条正篇资料，不是完整剧集库",
+    "meaning": "社区逐集播出日期记录，不代表平台实际上线",
+    "mode": "all"
+  },
+  "mine": {
+    "events": [
+      {
+        "key": "622288:1741639",
+        "bgmId": 622288,
+        "episodeId": 1741639,
+        "number": 2,
+        "title": "有杠杆就没问题",
+        "date": "2026-10-08",
+        "anime": {
+          "id": 1000622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          },
+          "bgmId": 622288
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      },
+      {
+        "key": "622288:1741638",
+        "bgmId": 622288,
+        "episodeId": 1741638,
+        "number": 1,
+        "title": "FX⋯是什么？",
+        "date": "2026-10-01",
+        "anime": {
+          "id": 1000622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          },
+          "bgmId": 622288
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "record",
+        "read": false
+      }
+    ],
+    "schedule": [
+      {
+        "key": "622288:1741640",
+        "bgmId": 622288,
+        "episodeId": 1741640,
+        "number": 3,
+        "title": "一定得停损吗......？",
+        "date": "2026-10-15",
+        "anime": {
+          "id": 1000622288,
+          "url": "http://bgm.tv/subject/622288",
+          "type": 2,
+          "name": "FX戦士くるみちゃん",
+          "name_cn": "FX战士久留美",
+          "summary": "",
+          "air_date": "2026-10-01",
+          "air_weekday": 4,
+          "rating": {
+            "total": 1275,
+            "count": {
+              "10": 32,
+              "9": 39,
+              "8": 212,
+              "7": 697,
+              "6": 236,
+              "5": 43,
+              "4": 6,
+              "3": 1,
+              "2": 1,
+              "1": 8
+            },
+            "score": 7
+          },
+          "rank": 2598,
+          "images": {
+            "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+            "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+            "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+            "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+            "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+          },
+          "collection": {
+            "doing": 9751
+          },
+          "bgmId": 622288
+        },
+        "source": "Bangumi episode record",
+        "stream_available": null,
+        "kind": "schedule"
+      }
+    ],
+    "subjects": [
+      {
+        "id": 1000622288,
+        "url": "http://bgm.tv/subject/622288",
+        "type": 2,
+        "name": "FX戦士くるみちゃん",
+        "name_cn": "FX战士久留美",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 1275,
+          "count": {
+            "10": 32,
+            "9": 39,
+            "8": 212,
+            "7": 697,
+            "6": 236,
+            "5": 43,
+            "4": 6,
+            "3": 1,
+            "2": 1,
+            "1": 8
+          },
+          "score": 7
+        },
+        "rank": 2598,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+        },
+        "collection": {
+          "doing": 9751
+        },
+        "bgmId": 622288
+      }
+    ],
+    "total_subjects": 1,
+    "offset": 0,
+    "count": 1,
+    "has_next": false,
+    "results": [
+      {
+        "subject_id": 622288,
+        "synced_at": 1791617340.7692077,
+        "cache": "cache",
+        "warning": null
+      }
+    ],
+    "today": "2026-10-10",
+    "calendar_synced_at": null,
+    "calendar_warning": null,
+    "coverage": "每部作品末尾最多100条正篇资料，不是完整剧集库",
+    "meaning": "社区逐集播出日期记录，不代表平台实际上线",
+    "mode": "mine"
+  }
+}
